@@ -1,0 +1,13 @@
+.panel{
+	padding: 10px 20px;
+	background-color: #ddd;
+	border: 1px solid #fff;
+}
+.content{
+	padding: 50px 20px;
+	background-color: #ddd;
+	display: none;
+}
+.text{
+	padding-top: 100px;
+}
